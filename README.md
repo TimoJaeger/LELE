@@ -4,14 +4,12 @@ LELE_Fence contains additional documents relating to the original article
 submitted to KOEDOE on the 2nd of December 2024.
 
 
-NOTE:
---Some content is currently being prepared and not uploaded yet!! For urgent requests, please contact the author Timo Jäger (timo.jaeger@kit.edu)--
 
 
 
 Content:
-- R code (in preparation)
-- Data (in preparation)
+- R-scripts
+- Data (necessary for the R code)
 - Supplementary Material
 
 
