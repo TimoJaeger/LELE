@@ -13,6 +13,10 @@ Content:
 - Supplementary Material
 
 
+NOTE:
+R-code is a shortened version showing the main analyses for the final results. Code for further analyses must be requested by timo.jaeger@kit.edu.
+
+
 
 
 Copyright information:
